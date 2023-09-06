@@ -19,7 +19,7 @@
       <div class="column">
          	<dl>
 				<dt>Project phase 1</dt>
-            <dd><a href="[https://didactic-space-couscous-69gpq6xrw6pwfxv65-5500.app.github.dev/](https://codepen.io/SMG1126/full/dywMqLz)">P.P1.1: Idea</a></dd>
+            <dd><a href="(https://codepen.io/SMG1126/full/dywMqLz)">P.P1.1: Idea</a></dd>
 			<dd></dd>
 			</dl>
 			<dl>
