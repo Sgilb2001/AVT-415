@@ -1,0 +1,36 @@
+body{
+  background-color: mistyrose;
+}
+h1{
+  font-family: "Impact", fantasy, sans-serif;
+  color: darkorchid;
+}
+h4{
+  color: orchid;
+  font-family: Arial Narrow, sans-serif;
+}
+h2{
+  color: orchid;
+  font-family: Arial Narrow, sans-serif;
+}
+a:link{
+  color: hotpink;
+}
+a:hover{
+  color: lightpink;
+}
+a:visited{
+  color: plum;
+}
+a:active{
+  color: blueviolet;
+}
+div{
+  color: blueviolet;
+}
+div{
+    font-family: Arial Narrow, sans-serif;
+}
+dd{
+  color: mediumorchid;
+}
