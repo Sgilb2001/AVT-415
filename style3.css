@@ -1,0 +1,24 @@
+body{
+font-family: 'Signika', sans-serif;
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-right:50px;
+  background-color: aliceblue;
+}
+h1{
+  font-family: 'DM Serif Display', serif;
+  color: lightskyblue;
+}
+h3{
+  color: cornflowerblue;
+}
+p{
+  font-size: 15px; 
+}
+.note{
+  font-family: 'DM Serif Display', serif;
+  color: lightskyblue;
+}
+.summary{
+  color: lightblue;
+}
